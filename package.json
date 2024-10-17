@@ -1,0 +1,19 @@
+{
+  "name": "fundamentals-of-backend-engineering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "video8.js",
+  "scripts": {
+    "start": "nodemon video12_publisher.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.4",
+    "cors": "^2.8.5",
+    "nodemon": "^3.1.1",
+    "websocket": "^1.0.35"
+  }
+}
